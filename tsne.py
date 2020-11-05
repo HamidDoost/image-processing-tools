@@ -1,6 +1,6 @@
 '''
 ===============================================================================
--- Author:		Hamid Doostmohammadi, Azadeh Nazemi
+-- Author:      Hamid Doostmohammadi, Azadeh Nazemi
 -- Create date: 01/11/2020
 -- Description:	This code is for T-distributed Stochastic Neighbor Embedding (t-SNE) 
                 which is a method for redcuing dimension for image comparison.
